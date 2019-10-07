@@ -1,1 +1,1 @@
-# Lab4_OZI
+# [Lab4_OZI](https://github.com/Alex734/Lab4_OZI)
